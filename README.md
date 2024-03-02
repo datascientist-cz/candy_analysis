@@ -1,4 +1,4 @@
-# candy_analysis
+# candy_analysis in python
 Analysis of a dataset on characteristiscs of candy bars in order to choose a new kind of bar for the the home brand of a retail chain in the Czech Republic
 Case Study: Expanding our candy brand in the Czech Republic
 My analysis of the Candy Power Ranking dataset
