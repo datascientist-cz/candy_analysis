@@ -6,7 +6,7 @@ The data set is located at https://github.com/fivethirtyeight/data/tree/master/c
 The data set is provided by FiveThirtyEight under the Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/)
 
 Analyzed by: Data by Miguel www.datascientist.cz
-
+This analysis and an extensive article explaining it can be found in my personal webpage: https://www.datascientist.cz/portfolio/expanding-our-candy-brand/
 # What can you find in this repository
 1. The source data (csv)
 2. The jupyter notebook that contains all my analysis and explanations
